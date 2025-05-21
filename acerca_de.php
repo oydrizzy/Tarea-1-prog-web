@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Acerca de mi</title>
-    <?php include 'otros/styles_css.php'; ?>
+    <?php include 'styles_css.php'; ?>
     <style>
         .perfil {
             text-align: center;
@@ -48,11 +48,11 @@
 <div class="container">
     <h1>Tarea 1</h1>
 
-    <?php include 'otros/menu.php'; ?>
+    <?php include 'menu.php'; ?>
 
     <div class="perfil">
         <h2>Rolando Paulino</h2>
-        <img draggable="false" src="otros/yo.jpg" alt="yo">
+        <img draggable="false" src="yo.jpg" alt="yo">
 
         <div class="links">
     <a href="https://t.me/xlpaulino" target="_blank">
@@ -68,7 +68,7 @@
     <div class="video">
         <h3>Video recomendado</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tE6jV8SLzNo?si=qT5ZhlZ4KcLdhUQi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-    <?php include 'otros/footer.php'; ?>
+    <?php include 'footer.php'; ?>
 
 </body>
 </html>
