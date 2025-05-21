@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Calculadora</title>
-    <?php include 'otros/styles_css.php' ?>
+    <?php include 'styles_css.php' ?>
     <style>
         .resultado {
             text-align: center;
@@ -48,7 +48,7 @@
 <div class="container">
     <h1>Tarea 1</h1>
 
-    <?php include 'otros/menu.php' ?>
+    <?php include 'menu.php' ?>
         <center><h2>Calculadora</h2></center>
 
     <form method="post">
@@ -104,7 +104,7 @@
     }
     ?>
 
-    <?php include 'otros/footer.php' ?>
+    <?php include 'footer.php' ?>
 </div>
 </body>
 </html>
