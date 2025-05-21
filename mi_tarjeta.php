@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Mi tarjeta</title>
-    <?php include 'otros/styles_css.php'; ?>
+    <?php include 'styles_css.php'; ?>
     <style>
         .tarjeta {
             max-width: 400px;
@@ -39,7 +39,7 @@
 <div class="container">
     <h1>Tarea 1</h1>
 
-    <?php include 'otros/menu.php'; ?>
+    <?php include 'menu.php'; ?>
 
     <?php
         $nombre = "Rolando";
@@ -66,7 +66,7 @@
         </strong></p>
     </div>
 
-    <?php include 'otros/footer.php'; ?>
+    <?php include 'footer.php'; ?>
 </div>
 
 </body>
