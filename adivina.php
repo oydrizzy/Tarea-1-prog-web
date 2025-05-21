@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Adivina</title>
-    <?php include 'otros/styles_css.php'; ?>
+    <?php include 'styles_css.php'; ?>
     <style>
     form {
         text-align: center;
@@ -40,7 +40,7 @@
 <div class="container">
     <h1>Tarea 1</h1>
     
-    <?php include 'otros/menu.php'; ?>
+    <?php include 'menu.php'; ?>
 
     <h2><center>Adivina un número del 1 al 5</center></h2>
 
@@ -64,7 +64,7 @@
         ?>
     </div>
 
-    <?php include 'otros/footer.php'; ?>
+    <?php include 'footer.php'; ?>
 </div>
 
 </body>
